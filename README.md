@@ -10,3 +10,9 @@ My personal journey learning Dutch with Jupyter Notebook
 ````sh
 pip install --requirement requirements.txt --requirement test_requirements.txt
 ````
+
+## Usage
+
+````sh
+jupyter-notebook
+````
